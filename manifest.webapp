@@ -24,13 +24,14 @@
   },
   "default_locale": "en-US",
   "icons": {
-    "16": "./img/app_icon.png",
-    "30": "./img/app_icon.png",
-    "32": "./img/app_icon.png",
-    "48": "./img/app_icon.png",
-    "60": "./img/app_icon.png",
-    "64": "./img/app_icon.png",
-    "128": "./img/app_icon.png"
+    "16": "/img/logo16.png",
+    "30": "/img/logo30.png",
+    "32": "/img/logo32.png",
+    "48": "/img/logo48.png",
+    "60": "/img/logo60.png",
+    "64": "/img/logo64.png",
+    "128": "/img/logo128.png",
+    "256": "/img/logo256.png"
   }
 }
 
